@@ -466,6 +466,7 @@
 				4CD9E2B31984336900005AF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4CD9E2B41984336900005AF8 /* Build configuration list for PBXNativeTarget "xManageTests" */ = {
 			isa = XCConfigurationList;
@@ -474,6 +475,7 @@
 				4CD9E2B61984336900005AF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
